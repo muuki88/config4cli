@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<faqs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/FML/1.0"
+  xsi:schemaLocation="http://maven.apache.org/FML/1.0 http://maven.apache.org/xsd/fml-1.0.xsd"
+  id="General FAQ">
+  <part id="General">
+    <title>General</title>
+   	<faq id="what">
+   		<question>What is the goal of your project?</question>
+   		<answer>Using the super cool typesafe config  classes with commandline parameters, too</answer>
+   	</faq>
+  </part>
+</faqs>
