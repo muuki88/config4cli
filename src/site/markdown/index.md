@@ -1,6 +1,6 @@
 ## Config4CLI
 
-This little project provides a smaller converter from [http://commons.apache.org/proper/commons-cli/](Apache Commons CLI) commandline parser to the [Typesafe Config](https://github.com/typesafehub/config).
+This little project provides a smaller converter from [Apache Commons CLI](http://commons.apache.org/proper/commons-cli/) commandline parser to the [Typesafe Config](https://github.com/typesafehub/config).
 
 ## Usage
 
