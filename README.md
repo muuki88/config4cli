@@ -2,6 +2,16 @@
 
 This little project provides a smaller converter from [http://commons.apache.org/proper/commons-cli/](Apache Commons CLI) commandline parser to the [Typesafe Config](https://github.com/typesafehub/config).
 
+## Maven
+
+```xml
+<dependency>
+  <groupId>de.mukis</groupId>
+  <artifactId>config4cli</artifactId>
+  <version>0.1.0</version>
+</dependency>
+```
+
 ## Usage
 
 First you generate your cli options as usual with commons-cli. For example
