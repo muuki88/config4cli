@@ -31,7 +31,7 @@ public static void main(String[] args) {
 
 ## Conversion options
 
-Currently theres only one conversion strategy.
+Currently there is only one conversion strategy.
 
 ### non-arg options
  
