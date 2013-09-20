@@ -19,6 +19,9 @@ import com.typesafe.config.ConfigFactory;
  */
 public class CommandLineConfig {
 
+    private CommandLineConfig() {
+    }
+
     /**
      * <p>
      * Parsing rules
