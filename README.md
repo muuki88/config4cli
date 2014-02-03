@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/muuki88/e4GeminiJPA.png)](https://travis-ci.org/muuki88/config4cli)
+
 ## Config4CLI
 
 This little project provides a smaller converter from [http://commons.apache.org/proper/commons-cli/](Apache Commons CLI) commandline parser to the [Typesafe Config](https://github.com/typesafehub/config).
