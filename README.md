@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/muuki88/e4GeminiJPA.png)](https://travis-ci.org/muuki88/config4cli)
+[![Coverage Status](https://coveralls.io/repos/muuki88/config4cli/badge.png?branch=master)](https://coveralls.io/r/muuki88/config4cli?branch=master)
 
 ## Config4CLI
 
